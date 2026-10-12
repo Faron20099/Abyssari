@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: Faron20099.github.io/Abyssari
+  baseUrl: faron20099.github.io/Abyssari
   ignorePatterns:
     - private
     - templates
